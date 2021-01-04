@@ -39,11 +39,12 @@ class App extends React.Component {
 
     const gifsList = gifs.map((gif) => {
       return (
-        <div key={gif.id}>
+        <div key={gif.id} className='gif-container'>
           <img
             src={gif.images.downsized_still.url}
             alt=""
             style={{ margin: "10px", width: "200px" }}
+            className='gif-img'
           />
         </div>
       );
@@ -51,11 +52,15 @@ class App extends React.Component {
 
     return (
       <>
-        <h1 style={{ textAlign: "center" }}>Gifs</h1>
+        <h1 style={{ textAlign: "center" }} className='heading'>Search GIPHY</h1>
         <form onSubmit={this.searchGifs} style={{ textAlign: "center" }}>
-          <input type="text" name="q" />
-          <button>Search</button>
+          <input type="text" name="q" className='search-box' />
+          <br/>
+          <br/>
+          <button className='search-btn'>Search</button>
+          
         </form>
+        <br/>
         {loading ? (
           <div
             style={{
@@ -65,7 +70,7 @@ class App extends React.Component {
             <h1>Loading Gifs...</h1>
           </div>
         ) : (
-          <div style={{ display: "flex", flexWrap: "wrap" }}>{gifsList}</div>
+          <div style={{ display: "flex", flexWrap: "wrap" }} className='gifs-parent-container'>{gifsList}</div>
         )}
       </>
     );

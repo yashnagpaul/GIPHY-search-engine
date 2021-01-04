@@ -31,3 +31,32 @@
     transform: rotate(360deg);
   }
 }
+
+/* DISPLAY CONTENT */
+
+.heading {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgba(0, 0, 255, 0.756);
+}
+
+.search-box {
+  padding: 5px 10px;
+  border-radius: 8px;
+  border: solid 2px rgba(0, 0, 0, 0.1);
+}
+
+.search-btn {
+  padding: 5px 10px;
+  border-radius: 8px;
+  border: solid 2px rgba(0, 0, 0, 0.1);
+}
+
+.gifs-parent-container {
+  display: flex;
+  justify-content: center;
+}
+
+.gif-img {
+  border-radius: 10px;
+  height: 150px;
+}
