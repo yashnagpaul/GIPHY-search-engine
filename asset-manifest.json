@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/yashnagpaul/GIPHY-search-engine/static/css/main.2cce8147.chunk.css",
-    "main.js": "/yashnagpaul/GIPHY-search-engine/static/js/main.97fd0c0e.chunk.js",
-    "main.js.map": "/yashnagpaul/GIPHY-search-engine/static/js/main.97fd0c0e.chunk.js.map",
-    "runtime~main.js": "/yashnagpaul/GIPHY-search-engine/static/js/runtime~main.54229196.js",
-    "runtime~main.js.map": "/yashnagpaul/GIPHY-search-engine/static/js/runtime~main.54229196.js.map",
-    "static/js/2.7f82bd93.chunk.js": "/yashnagpaul/GIPHY-search-engine/static/js/2.7f82bd93.chunk.js",
-    "static/js/2.7f82bd93.chunk.js.map": "/yashnagpaul/GIPHY-search-engine/static/js/2.7f82bd93.chunk.js.map",
-    "index.html": "/yashnagpaul/GIPHY-search-engine/index.html",
-    "precache-manifest.5daae026901d8c79372163e31553f9e6.js": "/yashnagpaul/GIPHY-search-engine/precache-manifest.5daae026901d8c79372163e31553f9e6.js",
-    "service-worker.js": "/yashnagpaul/GIPHY-search-engine/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/yashnagpaul/GIPHY-search-engine/static/css/main.2cce8147.chunk.css.map"
+    "main.css": "/GIPHY-search-engine/static/css/main.2cce8147.chunk.css",
+    "main.js": "/GIPHY-search-engine/static/js/main.c08390a4.chunk.js",
+    "main.js.map": "/GIPHY-search-engine/static/js/main.c08390a4.chunk.js.map",
+    "runtime~main.js": "/GIPHY-search-engine/static/js/runtime~main.e0108d41.js",
+    "runtime~main.js.map": "/GIPHY-search-engine/static/js/runtime~main.e0108d41.js.map",
+    "static/js/2.7f82bd93.chunk.js": "/GIPHY-search-engine/static/js/2.7f82bd93.chunk.js",
+    "static/js/2.7f82bd93.chunk.js.map": "/GIPHY-search-engine/static/js/2.7f82bd93.chunk.js.map",
+    "index.html": "/GIPHY-search-engine/index.html",
+    "precache-manifest.1aa1de226afeeb7bfeabea0ad64d3c8a.js": "/GIPHY-search-engine/precache-manifest.1aa1de226afeeb7bfeabea0ad64d3c8a.js",
+    "service-worker.js": "/GIPHY-search-engine/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/GIPHY-search-engine/static/css/main.2cce8147.chunk.css.map"
   }
 }
