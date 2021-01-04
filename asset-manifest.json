@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/GIPHY-search-engine/static/css/main.36f922fd.chunk.css",
-    "main.js": "/GIPHY-search-engine/static/js/main.2412de1b.chunk.js",
-    "main.js.map": "/GIPHY-search-engine/static/js/main.2412de1b.chunk.js.map",
+    "main.js": "/GIPHY-search-engine/static/js/main.c97e4974.chunk.js",
+    "main.js.map": "/GIPHY-search-engine/static/js/main.c97e4974.chunk.js.map",
     "runtime~main.js": "/GIPHY-search-engine/static/js/runtime~main.e0108d41.js",
     "runtime~main.js.map": "/GIPHY-search-engine/static/js/runtime~main.e0108d41.js.map",
     "static/js/2.7f82bd93.chunk.js": "/GIPHY-search-engine/static/js/2.7f82bd93.chunk.js",
     "static/js/2.7f82bd93.chunk.js.map": "/GIPHY-search-engine/static/js/2.7f82bd93.chunk.js.map",
     "index.html": "/GIPHY-search-engine/index.html",
-    "precache-manifest.a74751a06b83482ded191fdc6b4e72b3.js": "/GIPHY-search-engine/precache-manifest.a74751a06b83482ded191fdc6b4e72b3.js",
+    "precache-manifest.ee6eef0419cee2fb8bf0e40fa6eab634.js": "/GIPHY-search-engine/precache-manifest.ee6eef0419cee2fb8bf0e40fa6eab634.js",
     "service-worker.js": "/GIPHY-search-engine/service-worker.js",
     "static/css/main.36f922fd.chunk.css.map": "/GIPHY-search-engine/static/css/main.36f922fd.chunk.css.map"
   }
