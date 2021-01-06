@@ -40,12 +40,14 @@ class App extends React.Component {
     const gifsList = gifs.map((gif) => {
       return (
         <div key={gif.id} className='gif-container'>
-          <img
+          <a href={gif.images.downsized_still.url}>
+            <img
             src={gif.images.downsized_still.url}
             alt=""
             style={{ margin: "10px", width: "200px" }}
             className='gif-img'
-          />
+            />
+          </a>
         </div>
       );
     });
